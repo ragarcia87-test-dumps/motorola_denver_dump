@@ -1,0 +1,14 @@
+# user 12 S2RES32.29-16-1-5 c4167 release-keys
+- manufacturer: motorola
+- platform: holi
+- codename: denver
+- flavor: user
+- release: 12
+- id: S2RES32.29-16-1-5
+- incremental: c4167
+- tags: release-keys
+- fingerprint: motorola/denver_global/denver:11/S2RES32.29-16-1-5/c4167:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-12-S2RES32.29-16-1-5-c4167-release-keys
+- repo: motorola_denver_dump
